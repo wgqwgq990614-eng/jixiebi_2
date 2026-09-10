@@ -1,0 +1,27 @@
+# Keil MDK build output
+MDK-ARM/jixiebi_2/
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+
+# Keil per-user workspace settings and generated listings
+*.uvguix.*
+*.lst
+
+# Generic compiler/debug artifacts
+*.o
+*.obj
+*.d
+*.crf
+*.axf
+*.elf
+*.map
+*.lnp
+*.dep
+*.build_log.htm
+
+# Editor and operating-system metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
